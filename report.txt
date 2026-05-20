@@ -1,0 +1,17 @@
+==============================
+ PASSWORD AUDIT REPORT 
+==============================
+Mon 18 May 23:55:05 PKT 2026
+
+User: ali
+Risk Level: HIGH
+----------------------
+User: admin
+Risk Level: HIGH
+----------------------
+User: huzaifah@123
+Risk Level: HIGH
+----------------------
+User: sara
+Risk Level: HIGH
+----------------------
